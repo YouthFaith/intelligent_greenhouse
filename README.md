@@ -1,2 +1,3 @@
-# intelligent_greenhouse
-An intelligent greenhouse system based on SVM classifier
+# intelligent-greenhouse
+* Using the Python programming language, the use of C/S architecture, based on the PyQt visualization framework, using the raspberry sent 4 structures, the new era of intelligent greenhouse model, the use of CNN, the SVM training algorithm, such as plant diagnosis model, using camera to capture real-time plant growth situation in the greenhouse, and through training model to evaluate plant status, and feedback to the user, at the same time with temperature and humidity monitoring, automatic irrigation, intelligent security, face the beginning don't wait for other functions, and through the ali uploaded to the Internet of things platform of cloud data is stored in the cloud.
+
